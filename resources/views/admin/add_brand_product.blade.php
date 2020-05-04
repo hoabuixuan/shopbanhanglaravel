@@ -21,11 +21,11 @@
                         @csrf
                         <div class="form-group">
                             <label for="exampleInputEmail1">Tên Thương Hiêu</label>
-                            <input type="text" class="form-control" name="brand_product_name" id="exampleInputEmail1" placeholder="Tên danh mục">
+                            <input type="text" class="form-control" name="brand_product_name" id="exampleInputEmail1" placeholder="Tên Thương Hiệu">
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword1">Mô tả Thương Hiệu</label>
-                            <textarea style="resize:none" rows="8" type="text" class="form-control" name="brand_product_desc" name id="exampleInputPassword1" placeholder="Mô tả danh mục"></textarea>
+                            <textarea style="resize:none" rows="8" type="text" class="form-control" name="brand_product_desc" name id="exampleInputPassword1" placeholder="Mô tả thương hiêu"></textarea>
                         </div>
                         <div class="form-group">
                             <label for="">Hiển thị</label>
